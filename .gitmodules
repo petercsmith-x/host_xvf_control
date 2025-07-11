@@ -1,3 +1,4 @@
 [submodule "rtos"]
 	path = fwk_rtos
 	url = git@github.com:petercsmith-x/fwk_rtos.git
+    branch = rpi5-compat
